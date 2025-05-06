@@ -70,6 +70,7 @@ if __name__ == '__main__':
     print("Hello, World!")
     print("Pul qani")
     print("qib boldizmi hamidullo")
+    print("dsfwerfgref")
     # hodimni_qoshish("Ali", "Aliyev", "Dasturchi", 25, True)
     # print(hodimlarni_oqi())
     # hodimni_ozgartir(1, "Vali", "Aliyev", "Dasturchi", 25, True)
