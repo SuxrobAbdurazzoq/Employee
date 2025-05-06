@@ -66,7 +66,8 @@ def home():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # app.run(debug=True)
+    print("Hello, World!")
     # hodimni_qoshish("Ali", "Aliyev", "Dasturchi", 25, True)
     # print(hodimlarni_oqi())
     # hodimni_ozgartir(1, "Vali", "Aliyev", "Dasturchi", 25, True)
